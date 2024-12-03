@@ -46,6 +46,3 @@ El sistema tiene una base de datos de 20 preguntas relacionadas con temas de inf
 
 Este código está escrito en Prolog y se ejecuta en un entorno que soporte el lenguaje. Se recomienda tener conocimientos básicos de Prolog para entender y modificar el código según las necesidades del usuario.
 
----
-
-¡Disfruta resolviendo el examen y mejorando tus conocimientos de informática!
